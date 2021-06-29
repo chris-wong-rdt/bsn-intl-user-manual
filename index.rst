@@ -7,9 +7,18 @@ Blockchain-based Service Network User Manual
 ================================================
 
 .. toctree::
-   :maxdepth: 2
-   
+   :maxdepth: 1
+
    preface
+
+
+.. toctree::
+   :maxdepth: 2
+   :numbered:
+
+   contact
+
+
 
 
 |
