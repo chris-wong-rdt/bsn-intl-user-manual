@@ -3,18 +3,25 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to BSN Intl User Manual's documentation!
+Blockchain-based Service Network User Manual
 ================================================
 
 .. toctree::
    :maxdepth: 2
    
-   test
+   preface
 
 
-Indices and tables
-==================
+|
+|
+|
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+Blockchain-based Service Network Portals
+-----------------------------------------
+
++-----------------------+--------------------+
+| BSN China             | BSN International  | 
++=======================+====================+
+| https://bsnbase.com   | https://bsnbase.io | 
++-----------------------+--------------------+
+
