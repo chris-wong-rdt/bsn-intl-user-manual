@@ -1,1 +1,18 @@
-.wy-side-nav-search .icon-home { display: none; }
+.wy-side-nav-search .icon-home {
+  display: none;
+}
+
+.wy-table-responsive table td,
+.wy-table-responsive table th {
+  white-space: normal;
+}
+
+.release-notes-table ul.simple {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.release-notes-table ul li {
+    line-height: 18px;
+    margin-bottom: 10px;
+}

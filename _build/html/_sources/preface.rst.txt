@@ -11,4 +11,5 @@ Permissionless services determine how developers can choose the appropriate publ
 
 BSN's "Interchain Communications Hub" (ICH) integrates two interchain solutions based on relay chain mechanism: Poly Enterprise developed by Onchain and IRITA developed by Bianjie AI. It enables cross-chain interoperability between standard permissioned chains, open permissioned chains and public chains. We will continue to integrate more cross-chain protocols to achieve interoperability of all blockchains adapted to the BSN.
 
-Please feel free to contact us if there are any further questions. Our contact information can be found in Chapter 12. Contact Us. We strongly recommend users access the Online Documentation section to explore BSN technical details further.
+Please feel free to contact us if there are any further questions. Our contact information can be found in :doc:`contact`
+section. We strongly recommend users access the Online Documentation section to explore BSN technical details further.

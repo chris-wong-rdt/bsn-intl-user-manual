@@ -16,6 +16,10 @@ Blockchain-based Service Network User Manual
    :maxdepth: 2
    :numbered:
 
+   introduction/main
+   release_notes
+   quick-start/main
+   online_documentation
    contact
 
 

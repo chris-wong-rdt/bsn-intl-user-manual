@@ -7,7 +7,6 @@ Blockchain-based Service Network User Manual
 ================================================
 
 .. toctree::
-   :caption: Theme Documentation
    :maxdepth: 1
 
    preface
@@ -15,9 +14,12 @@ Blockchain-based Service Network User Manual
 
 .. toctree::
    :maxdepth: 2
-   :caption: Theme Documentation
    :numbered:
 
+   introduction/main
+   release_notes
+   quick-start/main
+   online_documentation
    contact
 
 
